@@ -4,7 +4,7 @@ gems:
   - jekyll-sitemap
 
 # Site settings
-title: Grupo ASDF
+title: Grupo tortugos
 subtitle: "#ASDFRobotics"
 email: mail@dcc.uchile.cl
 email2: miotromail@dcc.uchile.cl
@@ -12,7 +12,7 @@ name: Caro
 description: > 
   Better Sofrware for Better Robots. #SE4Robotics
 baseurl: "/tortugos/" # the subpath of your site, e.g. /blog/
-url: "http://rych-uch.github.io" # the base hostname & protocol for your site
+url: "http://carohernandezph.github.io" # the base hostname & protocol for your site
 #cover: "assets/header_image.jpg"
 cover: "assets/pr2.jpg"
 #logo: "assets/logo.png"

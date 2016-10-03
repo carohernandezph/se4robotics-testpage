@@ -4,14 +4,14 @@ gems:
   - jekyll-sitemap
 
 # Site settings
-title: Grupo 1
-subtitle: "#SE4Robotics"
-email: mimail@dcc.uchile.cl
+title: Grupo ASDF
+subtitle: "#ASDFRobotics"
+email: mail@dcc.uchile.cl
 email2: miotromail@dcc.uchile.cl
-name: Yo
+name: Caro
 description: > 
   Better Sofrware for Better Robots. #SE4Robotics
-baseurl: "/testpage/" # the subpath of your site, e.g. /blog/
+baseurl: "/tortugos/" # the subpath of your site, e.g. /blog/
 url: "http://rych-uch.github.io" # the base hostname & protocol for your site
 #cover: "assets/header_image.jpg"
 cover: "assets/pr2.jpg"
